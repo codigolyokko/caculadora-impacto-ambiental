@@ -2,6 +2,7 @@
 
 Aplicación desarrollada en **Delphi** para estimar el impacto ambiental de un cultivo según el uso de agua, fertilizantes y pesticidas.  
 Clasifica automáticamente el impacto en **Bajo, Medio o Alto** y cambia los colores de la interfaz según el nivel.
+La interfaz está diseñada con un **estilo Frutiger Aero**.
 
 ## ✨ Características
 - Entrada de datos: área del cultivo, litros de agua por m², fertilizantes (kg) y pesticidas (L).  
@@ -14,4 +15,7 @@ Clasifica automáticamente el impacto en **Bajo, Medio o Alto** y cambia los col
 - Object Pascal  
 
 ## 📸 Capturas de pantalla
-![Pantalla principal](images/calculadora_impacto_main.png)
+![Pantalla principal](Images/CalculadoraImpacto1.png)
+![Impacto ambiental bajo](Images/CalculadoraImpacto2.png)
+![Impacto ambiental medio](Images/CalculadoraImpacto3.png)
+![Impacto ambiental alto](Images/CalculadoraImpacto4.png)
